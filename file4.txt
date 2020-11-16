@@ -1,4 +1,4 @@
 this is a text doc
 a conflict will be created on line three
-I AM THE CONFLICT - captain chaos
+I AM THE CONFLICT - captain chaos/hear me roar!
 have fun resolving the conflict, beacuase the merge of 'newfeature' will fail :P
